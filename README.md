@@ -7,3 +7,5 @@
 - 💬 Ask me about Gentoo but do not ask too much of me.
 - 📫 How to reach me: angryteachofficial@gmail.com
 - ⚡ Fun fact: Mr Powers once lost his mojo.
+
+I can be found on 🐦[Twitter](https://twitter.com/angryteach_dev) and 📺[YouTube](https://www.youtube.com/c/AngryTeachonGentooLinux).
