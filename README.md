@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on setting my learning goals.
-- 🌱 I’m currently learning about technologies of the future.
-- 👯 I’m looking to collaborate on a useful project.
-- 🤔 I’m looking for help with setting my dev goals.
-- 💬 Ask me about Gentoo but do not ask too much of me.
-- 📫 How to reach me: angryteachofficial@gmail.com
-- ⚡ Fun fact: Mr Powers once lost his mojo.
+- :black_nib: I write about Gentoo on my [Telegram-channel](https://t.me/angryteachru).
+- 📫 How to reach me via e-mail: angryteachofficial@gmail.com
+- ⚡ My life-long goal: to become a developer
 
-I can be found on 🐦[Twitter](https://twitter.com/angryteach_dev) and 📺[YouTube](https://www.youtube.com/c/AngryTeachonGentooLinux).
+You can join :iphone:[a private Telegram-chat](https://t.me/+Oy579LSrvCI2MGRi).
